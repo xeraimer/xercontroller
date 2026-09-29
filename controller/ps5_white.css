@@ -1,6 +1,6 @@
 /*BEGIN Custom Controller Styling*/
 .controller.custom {
-    background: url(Xerath_Skin.png);
+    background: url("https://raw.githubusercontent.com/xeraimer/gamepadviewer/main/controller/Xerath_Skin.png");
     height: 700px;
     width: 1200px;
 }
@@ -20,7 +20,7 @@
 .custom .trigger {
     width: 99px;
     height: 100%;
-    background: url(Trigger_Pressed.png);
+    background: url("https://raw.githubusercontent.com/xeraimer/gamepadviewer/main/controller/Trigger_Pressed.png");
     opacity: 0;
 }
 
@@ -36,7 +36,7 @@
 .custom .bumper {
     width: 200px;
     height: 45px;
-    background: url(Bumper.png) no-repeat;
+    background: url("https://raw.githubusercontent.com/xeraimer/gamepadviewer/main/controller/Bumper.png") no-repeat;
     opacity: 0;
 }
 
@@ -70,7 +70,7 @@
 }
 
 .custom .touchpad.pressed {
-    background: url(Touchpad.png) no-repeat center;
+    background: url("https://raw.githubusercontent.com/xeraimer/gamepadviewer/main/controller/Touchpad.png") no-repeat center;
 }
 
 .custom .meta {
@@ -82,7 +82,7 @@
 }
 
 .custom .meta.pressed {
-    background: url(Home.png) no-repeat center;
+    background: url("https://raw.githubusercontent.com/xeraimer/gamepadviewer/main/controller/Home.png") no-repeat center;
 }
 
 .custom .p0 {
@@ -107,7 +107,7 @@
 }
 
 .custom .back, .custom .start {
-    background: url(Select.png);
+    background: url("https://raw.githubusercontent.com/xeraimer/gamepadviewer/main/controller/Select.png");
     width: 26px;
     height: 43px;
     opacity: 0;
@@ -144,7 +144,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(FaceButtons.png);
+    background: url("https://raw.githubusercontent.com/xeraimer/gamepadviewer/main/controller/FaceButtons.png");
 }
 
 .custom .button.pressed {
@@ -184,7 +184,7 @@
 
 .custom .stick {
     position: absolute;
-    background: url(Sticks.png);
+    background: url("https://raw.githubusercontent.com/xeraimer/gamepadviewer/main/controller/Sticks.png");
     height: 94px;
     width: 94px;
 }
@@ -216,7 +216,7 @@
 }
 
 .custom .face {
-    background: url(Dpad.png);
+    background: url("https://raw.githubusercontent.com/xeraimer/gamepadviewer/main/controller/Dpad.png");
     position: absolute;
 }
 
@@ -263,9 +263,8 @@
 }
 
 .custom .back, .custom .start {
-    background-image: url(Start.png);
+    background-image: url("https://raw.githubusercontent.com/xeraimer/gamepadviewer/main/controller/Start.png");
     width: 26px;
     height: 43px;
 }
 /*END Custom Controller Styling*/
- 
